@@ -1,4 +1,10 @@
 ### Hi eu sou o Geozedeque 👋
+Estudante de Ciência da Computação CIn-UFPE
+
+<p>A tecnologia analisada como um território é um lugar ocupado por poucos 
+e pensado em uma área com grande impacto na sociedade é necessário que mais e mais pessoas 
+ocupem esse espaço para torna-lo diverso e inclusivo. </p>
+<p>COMO PODEMOS FAZER ISSO!?</p>
 
 ##
 <div align="center">
