@@ -1,7 +1,7 @@
 ### Hi eu sou o Geozedeque 👋
 Estudante de Ciência da Computação CIn-UFPE
 
-<p>Gosto de pensar a tecnologia como um território, dessa forma percebemos se lugar ocupado por poucos 
+<p>Gosto de pensar a tecnologia como um território, dessa forma percebemos como esse lugar é ocupado por poucos 
 e sendo uma área com grande impacto na sociedade é necessário que mais e mais pessoas 
 ocupem esse espaço para torna-lo diverso e inclusivo. </p>
 <p>COMO PODEMOS FAZER ISSO!?</p>
